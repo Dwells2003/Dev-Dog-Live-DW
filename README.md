@@ -20,7 +20,9 @@ author: BARRY and tatum, ahayde, jaxon, corbin, ... allk
 
 - TODO: 🐶19. Add in your authorship comments in THIS README document. (It's a joint authorship, right?). Include the date and that this is for your CIS 376 mid term exam, and don't forget to include at least ONE attribution to other code sources.
 - TODO: 🐶20. Add in an image with a screenshot of you with exactly 4782 points
-![image](https://github.com/user-attachments/assets/e4e5d9ea-4e1e-4d78-af31-17c075b6513f)
+
+![image](https://github.com/user-attachments/assets/86b2940e-96dc-45f1-9894-3d15f17358a1)
+
 
 
 5. test it all locally and, when ready,
